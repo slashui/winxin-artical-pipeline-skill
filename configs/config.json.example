@@ -1,0 +1,13 @@
+{
+  "default": "account1",
+  "accounts": {
+    "account1": {
+      "app_id": "你的第一个公众号AppID",
+      "app_secret": "你的第一个公众号AppSecret"
+    },
+    "account2": {
+      "app_id": "你的第二个公众号AppID",
+      "app_secret": "你的第二个公众号AppSecret"
+    }
+  }
+}

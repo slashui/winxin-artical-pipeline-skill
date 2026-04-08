@@ -10,17 +10,7 @@
 - `configs/config.json.example`：公众号配置示例
 - `examples/article_example.md`：上传测试用示例文章
 
-## 已移除的内容
-
-这个公开目录已经去除了不适合提交到 GitHub 的内容：
-
-- 真实公众号 `config.json`
-- 本地缓存和 `__pycache__`
-- 运行产物 `data/outputs/`
-- 临时归档目录 `data/archive/`
-- 原始输入素材 `data/inputs/subtitles/` 中的本地文件
-
-## 安装
+## 安装依赖
 
 建议使用 Python 3.10+：
 
